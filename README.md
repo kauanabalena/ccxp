@@ -10,7 +10,7 @@ A página de abertura da CCXP é mais do que apenas um countdown. É um portal p
 
 <b>Countdown Interativo:</b> Nosso contador regressivo não é apenas uma contagem regressiva comum. Ele é uma experiência interativa que revela surpresas e conteúdo exclusivo à medida que se aproxima a data do evento.
 
-<b>Galeria de Imagens:</b> Explore uma galeria de imagens espetaculares de edições passadas da CCXP. Sinta a energia e a emoção do evento enquanto navega por fotos incríveis.
+<b>Imagens:</b> Uma galeria de imagens do evento, vídeo interativo e ingressos disponíveis.
 
 
 ## Tecnologias Utilizadas 📌
